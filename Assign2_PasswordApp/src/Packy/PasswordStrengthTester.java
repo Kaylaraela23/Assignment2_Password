@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-/**
+/*
  * A GUI application that evaluates password strength based on the length of the largest block of consecutive identical characters.
  * The password must be between 8 and 12 characters long without spaces.
  */
